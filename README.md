@@ -1,5 +1,5 @@
-#### Olá !!! Me chamo Hudson, Mas pode me chamar de Dinho.👋 <hr />
-- Estou Entrando nesse mundo da Programação agora !
+#### <h1 align="center">Olá !!! Me chamo Hudson.👋</h1> <hr />
+- Estou Entrando nesse Novo mundo agora !
 - Estou Estudando HTML por enquanto. O importante é começar não é mesmo ? rs
 - Sou Do Rio de janeiro
 - Tenho 22 Anos
